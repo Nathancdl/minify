@@ -26,3 +26,17 @@
     •PHP, HTML5,CSS
     •Framework : Symfony2 ou autres
     •APIREST
+    
+## Installation de l’environement Symfony
+
+- Installer Php 8.2 → [https://www.php.net/downloads](https://www.php.net/downloads)
+- installer Composer → [https://getcomposer.org/doc/00-intro.md](https://getcomposer.org/doc/00-intro.md)
+- Installer ⚠️ Symfony 6.0 ⚠️ → numéro de version importante →
+    - [https://symfony.com/download](https://symfony.com/download)
+    - [https://symfony.com/doc/6.0/setup.html](https://symfony.com/doc/6.0/setup.html)
+- Installer un server apache (WAMP → windows, XAMP, MAMP etc.) → [https://www.wampserver.com/](https://www.wampserver.com/)
+- récuperer le repo sur github → repos minfy
+- ‘composer install’
+- ‘symfony server:start’
+
+👏🏻
